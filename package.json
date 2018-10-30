@@ -1,0 +1,26 @@
+{
+  "name": "passport-local-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayrajk/Passport-local-example.git"
+  },
+  "author": "Jayraj Kapadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrajk/Passport-local-example/issues"
+  },
+  "homepage": "https://github.com/jayrajk/Passport-local-example#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
